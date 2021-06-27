@@ -1,0 +1,9 @@
+.footer {
+    grid-column: 1/4;
+    text-align: center;
+    padding: 3rem;
+}
+
+.footer__name {
+    text-transform: uppercase;
+}

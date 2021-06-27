@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font: Arial, Verdana 62.5%;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 5rem;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h2 {
+	font-size: 2rem;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 1.6rem;
+	padding: .5rem 0;
+}
+
+.container {
+	background-color: #00004d;
+	background-image: url(../photos/niebo.jpg);
+	background-size: cover;
+	display: grid;
+	grid-template-columns: 1fr 6fr 1fr;
+}

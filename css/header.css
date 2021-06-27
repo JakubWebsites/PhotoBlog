@@ -1,0 +1,15 @@
+.header {
+    grid-column: 1/4;
+    text-align: center;
+    padding: 2rem 0 4rem 0;
+}
+
+
+.header__link:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header__link:visited {
+    color: #ffffff;
+}
